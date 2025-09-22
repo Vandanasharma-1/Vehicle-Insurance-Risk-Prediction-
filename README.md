@@ -14,7 +14,6 @@ Start by executing the `template.py` file to create the initial project template
 
 Write the setup for importing local packages in `setup.py` and `pyproject.toml` files.
 
-> **Tip:** Learn more about these files from `crashcourse.txt`.
 
 ### **Step 3: Virtual Environment and Dependencies**
 
