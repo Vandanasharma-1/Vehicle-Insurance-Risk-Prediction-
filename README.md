@@ -149,12 +149,6 @@ Set up an EC2 instance for deployment. Install Docker on the EC2 machine. Connec
 
 Open the 5080 port on the EC2 instance. Access the deployed app by visiting `http://<public_ip>:5080`.
 
------
-
-##  Additional Resources
-
-  * **Crash Course on `setup.py` and `pyproject.toml`**: See `crashcourse.txt` for details.
-  * **GitHub Secrets**: Manage secrets for secure CI/CD pipelines.
 
 -----
 
